@@ -20,7 +20,7 @@ This is a simple application that show us different **Pokemons** randomly when t
 
 Image 1                     |  Image 2             |  Image 3
 :-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/deepanshu2895/Pokemon/blob/main/Images/image_1.png" width="250" height="500px"> |  <img src="https://github.com/deepanshu2895/Pokemon/blob/main/Images/image_2.png" width="250" height="500px"> |  <img src="https://github.com/deepanshu2895/Pokemon/blob/main/Images/image_3.png" width="250" height="500px">
+<img src="https://github.com/deepanshushares/Pokemon/blob/main/Images/image_1.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Pokemon/blob/main/Images/image_2.png" width="250" height="500px"> |  <img src="https://github.com/deepanshushares/Pokemon/blob/main/Images/image_3.png" width="250" height="500px">
 
 ## Gif
 
